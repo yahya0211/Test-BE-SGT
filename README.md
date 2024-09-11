@@ -1,6 +1,12 @@
-Persyaratan sistem: Node.JS v20.10.0
+Persyaratan sistem:
+
+1. Node.Js version 10.15.3
 
 Langkah-langkah:
-1. inisialisasi project Node.Js
-2. install express untuk handling http (npm install express)
-3. 
+
+1. git clone https://github.com/yahya0211/Test-BE-SGT.git
+2. cd Test-BE-SGT
+3. install dependensi (npm install)
+4. jalankan project (npm run start)
+5. untuk mengakses jawaban task 1 menggunakan http://localhost:3000/recent-books
+6. untuk mengakses jawaban task 2 menggunakan http://localhost:3000/search?q= q sebagai input yang ingin dicari
