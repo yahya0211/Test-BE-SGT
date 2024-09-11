@@ -1,0 +1,16 @@
+{
+  "name": "pt-sgt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "nodemon index.js"
+  },
+  "author": "yahya",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.20.0",
+    "nodemon": "^3.1.4"
+  }
+}
